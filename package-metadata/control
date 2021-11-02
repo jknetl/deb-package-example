@@ -3,6 +3,7 @@ Version: 1.0
 Section: custom
 Priority: optional
 Architecture: amd64
+Depends: ack (>= 3.0)
 Essential: no
 Installed-Size: 1024
 Maintainer: Jakub Knetl
