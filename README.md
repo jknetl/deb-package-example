@@ -2,4 +2,21 @@
 
 Contains  two binaries.
 
-build it with build.sh
+
+
+
+### Prerequisities
+
+install _build-essential_ package:
+
+```
+sudo apt install build-essential
+```
+
+### Building
+
+Run build.sh script
+
+```
+build.sh
+```
